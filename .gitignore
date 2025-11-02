@@ -1,0 +1,8 @@
+# Arquivos de saída de compilação
+*.out
+*.exe
+*.o
+
+# Arquivos do editor
+.vscode/
+*.swp
