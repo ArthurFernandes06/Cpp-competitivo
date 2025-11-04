@@ -1,5 +1,6 @@
 # Arquivos de saída de compilação
 *.out
+*.in
 *.exe
 *.o
 
