@@ -12,7 +12,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27a0e286-f5c6-428c-ba19-a883837f3936" name="Changes" comment="Problema the bovine shuffle resolvido" />
+    <list default="true" id="27a0e286-f5c6-428c-ba19-a883837f3936" name="Changes" comment="Problema the bovine shuffle resolvido">
+      <change afterPath="$PROJECT_DIR$/data_structs/linked_list.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;C/C++ File.linked_list.c.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.the_bovine_shuffle.c (1).executor&quot;: &quot;Run&quot;,
     &quot;C/C++ File.the_bovine_shuffle.c.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -55,8 +59,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="the_bovine_shuffle.c (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitiva" TARGET_NAME="the_bovine_shuffle.c (1)" CONFIG_NAME="the_bovine_shuffle.c (1)">
-      <option name="sourceFile" value="C:\Users\Windows 11\Documents\Programação\Competitiva\USACO\Bronze\the_bovine_shuffle.c" />
+    <configuration name="linked_list.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Competitiva" TARGET_NAME="linked_list.c" CONFIG_NAME="linked_list.c">
+      <option name="sourceFile" value="C:\Users\Windows 11\Documents\Programação\Competitiva\data_structs\linked_list.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -71,7 +75,9 @@
       <updated>1762202495413</updated>
       <workItem from="1762202498024" duration="3864000" />
       <workItem from="1762206489268" duration="6982000" />
-      <workItem from="1762261480354" duration="6554000" />
+      <workItem from="1762261480354" duration="6871000" />
+      <workItem from="1762362279957" duration="5919000" />
+      <workItem from="1762436936828" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="Problema the bovine shuffle resolvido">
       <option name="closed" value="true" />
